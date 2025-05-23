@@ -1,0 +1,5 @@
+🎧 Adaptive Audio Mix Assistant – Suggestions
+
+🔉 Dialogue is too quiet vs music.
+🎧 SFX may spectrally clash with dialogue.
+✅ Mix check complete.
